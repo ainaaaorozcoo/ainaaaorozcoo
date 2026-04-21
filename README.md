@@ -15,15 +15,13 @@ Soy una programadora apasionada por el **desarrollo web** y la creación de proy
 
 ## 🚀 Proyectos destacados
 
-### [G03 – Proyecto de clase](https://g03.daw2j23.es/)
-- Desarrollo de una aplicación web funcional durante mis estudios de **Desarrollo de Aplicaciones Web**.  
+### [NextGen](https://g03.daw2j23.es/) 
 - Backend con **Laravel y PHP**, frontend con **JavaScript**.  
 - Implementación de base de datos y gestión de usuarios.  
 
-### [Tactile Jr – Proyecto de prácticas](https://projects.tactilejr.org/home)
-- Proyecto realizado durante mis prácticas de grado superior con enfoque **social y educativo**.  
+### [Tactile Jr](https://projects.tactilejr.org/home)
+- Proyecto realizado durante mi estancia en Sistema Thead con enfoque **social y educativo**.  
 - Tecnologías utilizadas: **Laravel, PHP, JavaScript, MySQL**.  
-- Demuestra capacidad para trabajar en entornos reales y desarrollar aplicaciones completas.  
 
 ---
 
