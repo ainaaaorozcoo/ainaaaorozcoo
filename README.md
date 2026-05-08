@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ainaaaorozcoo/">
+  <a href="https://www.linkedin.com/in/ainaorozcogonzalez/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ainaaaorozcoo@gmail.com">
+  <a href="mailto:ainaorozcogonzalez@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Disponible%20para%20freelance-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
@@ -113,7 +113,7 @@ Proyecto desarrollado para **Sistema Thead** con enfoque educativo e inclusivo. 
 ### 💡 ¿Tienes un proyecto en mente?
 Estoy disponible para colaboraciones freelance: webs corporativas, aplicaciones a medida, automatizaciones y mucho más.
 
-📩 [Hablemos](mailto:ainaaaorozcoo@gmail.com)
+📩 [Hablemos](mailto:ainaorozcogonzalez@gmail.com)
 
 </td>
   </tr>
@@ -164,8 +164,8 @@ Estoy disponible para colaboraciones freelance: webs corporativas, aplicaciones 
 
 **Escríbeme — respondo siempre.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainaaaorozcoo/)
-[![Email](https://img.shields.io/badge/Email-ainaaaorozcoo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ainaaaorozcoo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainaorozcogonzalez/)
+[![Email](https://img.shields.io/badge/Email-ainaorozcogonzalez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ainaorozcogonzalez@gmail.com)
 
 </div>
 
