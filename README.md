@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aina%20Orozco%20González&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrolladora%20Web%20%7C%20IT%20Manager%20%7C%20Barcelona&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aina%20Orozco%20Gonzalez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrolladora%20Web%20%7C%20IT%20Manager%20%7C%20Barcelona&descAlignY=55&descSize=18" />
 
 <br/>
 
@@ -176,11 +176,6 @@ Estoy disponible para proyectos freelance: webs corporativas, tiendas online, ap
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ainaaaorozcoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainaaaorozcoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="165" />
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ainaaaorozcoo&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
