@@ -5,14 +5,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ainaorozcogonzalez/">
+  <a href="https://www.linkedin.com/in/ainaaaorozcoo/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ainaorozcogonzalez@gmail.com">
+  <a href="mailto:ainaaaorozcoo@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Disponible%20para%20freelance-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=ainaorozcogonzalez&style=for-the-badge&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=ainaaaorozcoo&style=for-the-badge&color=6366f1" />
 </p>
 
 </div>
@@ -113,7 +113,7 @@ Proyecto desarrollado para **Sistema Thead** con enfoque educativo e inclusivo. 
 ### 💡 ¿Tienes un proyecto en mente?
 Estoy disponible para colaboraciones freelance: webs corporativas, aplicaciones a medida, automatizaciones y mucho más.
 
-📩 [Hablemos](mailto:ainaorozcogonzalez@gmail.com)
+📩 [Hablemos](mailto:ainaaaorozcoo@gmail.com)
 
 </td>
   </tr>
@@ -124,8 +124,8 @@ Estoy disponible para colaboraciones freelance: webs corporativas, aplicaciones 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ainaorozcogonzalez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainaorozcogonzalez&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ainaaaorozcoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainaaaorozcoo&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -164,8 +164,8 @@ Estoy disponible para colaboraciones freelance: webs corporativas, aplicaciones 
 
 **Escríbeme — respondo siempre.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainaorozcogonzalez/)
-[![Email](https://img.shields.io/badge/Email-ainaorozcogonzalez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ainaorozcogonzalez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainaaaorozcoo/)
+[![Email](https://img.shields.io/badge/Email-ainaaaorozcoo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ainaaaorozcoo@gmail.com)
 
 </div>
 
