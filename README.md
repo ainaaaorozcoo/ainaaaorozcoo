@@ -173,23 +173,6 @@ Estoy disponible para proyectos freelance: webs corporativas, tiendas online, ap
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ainaaaorozcoo&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ainaaaorozcoo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="95%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
----
-
 ## 🎓 Formación
 
 <div align="center">
@@ -223,8 +206,6 @@ Estoy disponible para proyectos freelance: webs corporativas, tiendas online, ap
 ## 📫 ¿Hablamos?
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Disponible+para+proyectos+freelance+✅;Respondo+siempre+📩;¡No+dudes+en+escribirme!" />
 
 <br/>
 
