@@ -121,15 +121,6 @@ Estoy disponible para colaboraciones freelance: webs corporativas, aplicaciones 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ainaaaorozcoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainaaaorozcoo&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🎓 Formación
 
 | Título | Centro | Estado |
@@ -147,7 +138,7 @@ Estoy disponible para colaboraciones freelance: webs corporativas, aplicaciones 
 | Idioma | Nivel |
 |--------|-------|
 | 🇪🇸 Español | Nativo |
-| 🏴󠁥󠁳󠁣󠁴󠁿 Catalán | Nativo |
+|    Catalán | Nativo |
 | 🇬🇧 Inglés | Alto |
 | 🇧🇷 Portugués | Básico |
 | 🇫🇷 Francés | Básico |
