@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aina%20Orozco%20González&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrolladora%20Web%20%7C%20IT%20Manager%20%7C%20Barcelona&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🚀+Construyo+productos+web+que+funcionan+de+verdad;💼+IT+Manager+de+día%2C+desarrolladora+de+noche;⚡+Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL" alt="Typing SVG" />
-
 <br/>
 
 <a href="https://www.linkedin.com/in/ainaorozcogonzalez/">
